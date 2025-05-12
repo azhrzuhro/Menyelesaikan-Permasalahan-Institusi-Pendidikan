@@ -99,7 +99,7 @@ Untuk menjalankan prototype machine learning yang telah dibuat, terdapat dua car
 4. Setelah aplikasi berhasil dijalankan, masukkan data yang sesuai kemudian klik tombol Predict untuk mengetahui status mahasiswa tersebut (apakah berisiko dropout atau tidak).
 
 Jika ingin menjalankan aplikasi secara online, Anda dapat mengaksesnya melalui tautan berikut:
-[Jaya Jaya Institut App]([https://permasalahan-instuti-pendidikan-u8dvg8c4x9tvr97cpqghhi.streamlit.app/](https://menyelesaikan-permasalahan-institusi-pendidikan-2nrbycsjcd3mla.streamlit.app/)
+[Jaya Jaya Institut App](https://menyelesaikan-permasalahan-institusi-pendidikan-2nrbycsjcd3mla.streamlit.app/)
 
 ## Conclusion
 Proyek ini dirancang untuk menjawab beberapa permasalahan utama yang dihadapi oleh Jaya Jaya Institut terkait tingginya tingkat dropout mahasiswa. Berdasarkan hasil eksplorasi data, pemodelan machine learning, dan pengujian sistem, berikut adalah kesimpulan dari proyek ini:
