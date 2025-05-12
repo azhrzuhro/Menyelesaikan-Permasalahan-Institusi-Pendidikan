@@ -111,7 +111,7 @@ input_data = [
 ]
 
 # Predict button
-if st.button(' Predict '):
+if st.button(' Prediction '):
     prediction = predict_status(input_data)
     if prediction[0] == 0:
         st.error('Prediction: **Dropout**')
